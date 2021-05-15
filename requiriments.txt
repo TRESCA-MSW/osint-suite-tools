@@ -1,4 +1,4 @@
-pydns
+py3dns
 validate_email
 bs4
 wget
